@@ -1,4 +1,4 @@
-# Projektname
+# Labeldruck
 
 Es ist eine Web-Oberfläche zum Label drucken per WebApp
 
